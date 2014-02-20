@@ -1,30 +1,8 @@
 {
-  "name": "print-html",
+  "name": "intesso-print-html",
   "description": "prints the actual html document",
   "version": "0.0.2",
-  "author": "Andi Neck <andi.neck@intesso.com>",
-  "contributors": [
-    {
-      "name": "Andi Neck",
-      "email": "andi.neck@intesso.com"
-    }
-  ],
+  "keywords": [],
   "dependencies": {},
-  "devDependencies": {
-    "express": "~3.2.2",
-    "supertest": "~0.6.0",
-    "mocha": "~1.9.0"
-  },
-  "keywords": [
-    "html",
-    "print",
-    "toString",
-    "print html",
-    "html toString"
-  ],
-  "repository": "git://github.com/intesso/print-html",
-  "main": "index",
-  "engines": {
-    "node": "*"
-  }
+  "license": "MIT"
 }
